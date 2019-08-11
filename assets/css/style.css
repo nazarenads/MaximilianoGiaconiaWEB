@@ -172,7 +172,7 @@
      font-weight: 300;
      color: #747474;
      margin: 0 0 10px;
-     text-transform: capitalize;
+     text-transform: none;
  }
  h1 {
      font-size: 36px;
@@ -614,6 +614,13 @@
      background-size: cover;
      background-position: center;
  }
+ /* .about-me-title-bg{
+    background-image: url("../img/maxi_ilusionista_logo_final_v2.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 50%;
+    background-position: center;
+ } */
  /* background overlay
 ===================================*/
 
@@ -2239,11 +2246,12 @@
  /* Pages Title */
 
  .page-title h1 {
-     color: #737373;
+     color: black;
      display: inline-block;
+     font-family: Cinzel;
  }
  .page-title h4 {
-     color: #939393;
+     color: black;
  }
  .blog-area .mb-minus {
      margin-bottom: -30px;
