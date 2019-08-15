@@ -34,6 +34,10 @@
 [ 1. General Code ]
 ================ */
 
+*{
+  box-sizing: border-box;
+}
+
  body {
      font-family: 'Open Sans', sans-serif;
      font-size: 14px;
@@ -1906,7 +1910,7 @@
  }
  .portfolio-five .hover-1 .grid-item:hover hr.line,
  .portfolio-four .hover-1 .grid-item:hover hr.line {
-     background: #b6b6b6 none repeat scroll 0 0;
+     background: #f5f5f5 none repeat scroll 0 0;
      width: 42px;
  }
  /* Portfolio Five */
@@ -3119,6 +3123,8 @@
      -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
      box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
  }
+
+ .hide-me[aria-expanded="true"] {display: none;}
  /*====================================================================
 							[ END ]
 ======================================================================*/
