@@ -37,7 +37,7 @@
 	.portfolio-five .grid-item:hover .project-title {
 	  bottom: 25%;
 	}
-	
+
 	/* Pages */
 	.sidebar {
 	  padding: 40px 20px;
@@ -60,7 +60,7 @@
 	.three-style6 .project-title {
 	  bottom: 34%;
 	}
-	.four-style4 .grid-item:hover .project-title, 
+	.four-style4 .grid-item:hover .project-title,
 	.four-style2 .grid-item:hover .project-title {
 	  bottom: 25%!important;
 	}
@@ -93,7 +93,7 @@
 	  background-position: 45% 60%;
 	  background-size: auto 80%;
 	}
-	
+
 	.navbar-header {
 		float: none;
 	}
@@ -106,7 +106,7 @@
 	.navbar-nav {
 		float: none!important;
 	}
-	.navbar-collapse.collapse.in { 
+	.navbar-collapse.collapse.in {
 		display: block!important;
 	}
 	.collapsing {
@@ -139,7 +139,7 @@
 	.contact-area .pull-right  {
 	  float: none!important;
 	}
-	
+
 	.two-style6 .grid-item:hover .project-title,
 	.two-style6 .project-title {
 	  bottom: 36%;
@@ -171,10 +171,10 @@
 	  bottom: 32% !important;
 	}
 
-	
+
 }
 
-/* Small Mobile :320px. 
+/* Small Mobile :320px.
 ====================================*/
 @media (max-width: 767px) {
 
@@ -185,7 +185,7 @@
 		margin-bottom: 30px;
 	}
     .section-padding {
-        padding: 80px 0;
+        padding: 0px 0;
     }
 	.contact-area .contact-form,
     .mini-box,
@@ -197,7 +197,7 @@
 	.col-xs-12.no-padding{
 		padding: 0 15px;
 	}
-	
+
 	.portfolio-menu ul li {
 	  margin: 10px 17px;
 	}
@@ -276,7 +276,7 @@
 	.contact-area .info-text > p br{
 		display: none;
 	}
-	
+
 	.three-style6 .grid-item:hover .project-title,
 	.three-style6 .project-title,
 	.two-style6 .grid-item:hover .project-title,
@@ -292,7 +292,7 @@
 	.four-style4 .grid-item:hover .project-title {
 	  bottom: 30% !important;
 	}
-	
+
 }
 
 /* Large Mobile :480px
