@@ -46,7 +46,7 @@
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 60%;
   width: 100%;
   height: 100%;
   padding: 0;
@@ -1427,7 +1427,7 @@
          display: none;
      }
      .header-space {
-         height: 90px;
+         height: 80px;
      }
      .header-style-1 .header-top {
          padding-top: 22px;

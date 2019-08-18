@@ -178,6 +178,10 @@
 ====================================*/
 @media (max-width: 767px) {
 
+	.parallax{
+		background-size: cover;
+	}
+
 	.container{
 		width:300px;
 	}
@@ -298,6 +302,10 @@
 /* Large Mobile :480px
 =====================================*/
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.parallax{
+		background-size: cover;
+	}
 
 	.container {width:480px}
 	.percent-66,
