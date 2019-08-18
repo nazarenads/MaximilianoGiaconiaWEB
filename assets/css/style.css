@@ -39,11 +39,11 @@
 }
 
  body {
-     font-family: 'Open Sans', sans-serif;
+     font-family: 'Slabo 27px', sans-serif;
      font-size: 14px;
      line-height: 22px;
      font-weight: 400;
-     color: #939393;
+     color: black;
      background-color: #ffffff;
      overflow-x: hidden;
      -webkit-text-size-adjust: 100%;
@@ -51,7 +51,7 @@
      -webkit-font-smoothing: antialiased;
  }
  html {
-     font-family: 'Open Sans', sans-serif;
+     font-family: 'Slabo 27px', sans-serif;
  }
  html,
  body {
@@ -159,8 +159,8 @@
 ==========================*/
 
  p {
-     font-family: 'Open Sans', sans-serif;
-     color: #8e8e8e;
+     font-family: 'Slabo 27px', sans-serif;
+     color: black;
      font-size: 14px;
      line-height: 22px;
      font-weight: 300;
@@ -172,7 +172,7 @@
  h4,
  h5,
  h6 {
-     font-family: 'Open Sans', sans-serif;
+     font-family: 'Slabo 27px', sans-serif;
      font-weight: 300;
      color: #747474;
      margin: 0 0 10px;
@@ -191,7 +191,7 @@
  }
  h4 {
      font-size: 20px;
-     color: #646464;
+     color: black;
  }
  h5 {
      font-size: 15px;
@@ -233,7 +233,7 @@
 ====================================== */
 
  .open-sans {
-     font-family: 'Open Sans', sans-serif;
+     font-family: 'Slabo 27px', sans-serif;
  }
  .lato {
      font-family: 'Lato', sans-serif;
@@ -1833,7 +1833,7 @@
      border-top: 0;
  }
  .portfolio-area .project-title p {
-     color: #939393;
+     color: black;
  }
  .portfolio-area .hover-1 .project-title h4:hover {
      color: #484848;
@@ -2095,7 +2095,7 @@
      width: 50px;
  }
  .single-service p {
-     color: #979797;
+     color: black;
  }
  .service-two .single-service i {
      float: none;
